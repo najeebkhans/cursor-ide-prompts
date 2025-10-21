@@ -13,6 +13,12 @@ This repository provides a **comprehensive reference of powerful prompts** desig
 
 ---
 
+
+## Cursor Pro Tip
+- Generate a mermaid diagram of the aipromptdesigners.com flow
+
+
+
 ## ✅ Basic Prompts
 
 * **Explain Code:**
